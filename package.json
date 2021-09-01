@@ -20,7 +20,7 @@
     "SHA": ""
   },
   "dependencies": {
-    "aws-sdk": "~2.0.0-rc9",
+    "aws-sdk": "2.0.0-rc9",
     "bluebird": "~1.2.4",
     "brackets-extensibility": "file:deps/brackets-extensibility",
     "clone": "~0.1.9",
